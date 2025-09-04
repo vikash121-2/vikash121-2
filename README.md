@@ -1,17 +1,19 @@
 # Hi there, I'm vikash! 👋
 
-Welcome to my GitHub profile! I'm  Student. passionate about exploring something new. Here's a little about me:
+Welcome to my GitHub profile! I'm a student passionate about exploring
+something new. Here's a little about me:
 
-- 🔭 **Currently working on:** Nothing 
-- 🌱 **Currently learning:** C, python
-- 👯 **Looking to collaborate on:** none
-- 
-- 🤔 **Looking for help with:** None
-- 💬 **Ask me about:** Nothing
-- 📫 **How to reach me:** ...
-- 😄 **Pronouns:** ...
-- ⚡ **Fun fact:** ...
+- 🔭 **Currently working on:** Personal coding projects
+- 🌱 **Currently learning:** C, Python
+- 👯 **Looking to collaborate on:** Open source projects
+-
+- 🤔 **Looking for help with:** Advanced programming concepts
+- 💬 **Ask me about:** Programming, technology, learning resources
+- 📫 **How to reach me:** Via GitHub issues or discussions
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I enjoy exploring new technologies and coding challenges
 
-## 🎉 Thanks for Visiting!
+## 🎉 Thanks for Visiting
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat! 😊
+Feel free to explore my repositories, and don't hesitate to reach out if
+you'd like to collaborate or just chat! 😊
