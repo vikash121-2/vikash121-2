@@ -1,0 +1,26 @@
+{
+  "name": "vikash121-2-dev-tools",
+  "version": "1.0.0",
+  "description": "Development tools and commands for learning C and Python",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm install && chmod +x scripts/*.sh",
+    "clean": "rm -rf build/ dist/ *.out *.exe __pycache__/ *.pyc",
+    "build-c": "make build",
+    "run-c": "make run",
+    "clean-c": "make clean",
+    "test-python": "python3 -m pytest tests/ -v",
+    "run-python": "python3 src/python/hello.py",
+    "lint-python": "python3 -m flake8 scripts/ --max-line-length=88",
+    "format-python": "python3 -m black scripts/",
+    "dev": "echo 'Starting development environment...' && npm run setup",
+    "help": "node scripts/help.js"
+  },
+  "keywords": ["development", "learning", "c", "python"],
+  "author": "vikash121-2",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
